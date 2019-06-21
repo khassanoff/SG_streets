@@ -12,7 +12,7 @@ No.	| Recording id                  | Street names	                | Speaker gen
 
 ## Other notes:
 - Compound street names are combined using underscore symbol, i.e. 'boon lay' -> 'boon_lay'.
-- To simulate the scenario where these street names are rare words, ensure that they are absent or appear 1-3 times in the train set.
+- To simulate the scenario where these street names are rare words, ensure that they are absent or appear a few times in the train set.
 - The main application of the evaluation set is to correctly recognize these street names while preserving the WER.
 - List of Singapore street names can be found in: https://geographic.org/streetview/singapore/
 - The pronunciation lexicon can be obtained from G2P models such as http://www.speech.cs.cmu.edu/tools/lextool.html . E.g. for word "boon_lay", first generate pronunciation lexicon of "boon" and "lay" separately, and then combine all pronunciation variations.
