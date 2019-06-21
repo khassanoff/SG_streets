@@ -10,7 +10,7 @@ No.	| Recording id                  | Street names	                | Speaker gen
 5	| mml-24-jan-2018-a-session4	| Bukit Batok	                | Male	          | 00:07:41	| 1,081
 6	| mml-24-jan-2018-b-session4	| Sembawang	                    | Female	      | 00:09:03	| 1,018
 
-##Other notes:
+## Other notes:\\
 -Compound street names are combined using underscore symbol, i.e. 'boon lay' -> 'boon_lay'.
 
 -To simulate the scenario where these street names are rare words, ensure that they are absent or appear 1-3 times in the train set.
