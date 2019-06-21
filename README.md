@@ -16,7 +16,7 @@ No.	| Recording id                  | Street names	                | Speaker gen
 - The main application of the evaluation set is to correctly recognize these street names while preserving the WER.
 - List of Singapore street names can be found in: https://geographic.org/streetview/singapore/
 - The pronunciation lexicon can be obtained from G2P models such as http://www.speech.cs.cmu.edu/tools/lextool.html. E.g. for word "boon_lay", first generate pronunciation lexicon of "boon" and "lay" separately, and then combine all pronunciation variations.
-- The readers are Singaporeans (accent is different from English speakers in other contries), and thus train set containing Singapore English is recommended, e.g. https://www2.imda.gov.sg/NationalSpeechCorpus.
+- The readers are Singaporeans (accent is different from English speakers in other countries), and thus train set containing Singapore English is recommended, e.g. https://www2.imda.gov.sg/NationalSpeechCorpus.
 
 # References
-[1] Khassanov, Y., Zeng, Z., Pham, V. T., Xu, H., & Chng, E. S. (2019). Enriching Rare Word Representations in Neural Language Models by Embedding Matrix Augmentation. arXiv preprint arXiv:1904.03799.
+[1] Khassanov, Y., Zeng, Z., Pham, V. T., Xu, H., & Chng, E. S. (2019). Enriching Rare Word Representations in Neural Language Models by Embedding Matrix Augmentation. arXiv preprint arXiv:1904.03799. (Accepted to Interspeech 2019).
