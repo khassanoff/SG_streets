@@ -20,4 +20,4 @@ No.	| Recording id                  | Street names	                | Speaker gen
 - The readers are Singaporeans (accent is different from English speakers in other countries), and thus train set containing Singapore English is recommended, e.g. https://www2.imda.gov.sg/NationalSpeechCorpus. (Note: in the paper we used strong Singapore English ASR trained on our own dataset).
 
 # References
-[1] Khassanov, Y., Zeng, Z., Pham, V. T., Xu, H., & Chng, E. S. (2019). Enriching Rare Word Representations in Neural Language Models by Embedding Matrix Augmentation. arXiv preprint arXiv:1904.03799. (Accepted to Interspeech 2019).
+[1] Khassanov, Y., Zeng, Z., Pham, V.T., Xu, H., Chng, E.S. (2019) Enriching Rare Word Representations in Neural Language Models by Embedding Matrix Augmentation. Proc. Interspeech 2019, 3505-3509, DOI: 10.21437/Interspeech.2019-1858..
